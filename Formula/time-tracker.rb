@@ -5,7 +5,7 @@ class TimeTracker < Formula
   sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
   license "MIT"
 
-  head "https://github.com/<YOUR_GITHUB_USER>/<YOUR_REPO>.git", branch: "main"
+  head "https://github.com/Scoyou/time_tracker.git", branch: "main"
 
   def install
     # If your script file in the repo is named `time` at the repo root,
