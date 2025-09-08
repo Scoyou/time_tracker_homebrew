@@ -1,8 +1,8 @@
 class TimeTracker < Formula
   desc "Tiny CLI to track project time to CSV"
   homepage "https://github.com/Scoyou/time_tracker"
-  url "https://github.com/Scoyou/time_tracker/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/Scoyou/time_tracker/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "2cb0f07669dbad85c5ebcd7a67393c8c53f38829a1af75072acb76806465f0a8"
   license "MIT"
 
   head "https://github.com/Scoyou/time_tracker.git", branch: "main"
